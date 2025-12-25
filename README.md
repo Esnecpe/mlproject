@@ -1,7 +1,23 @@
 # End-to-End Machine Learning Project 
 
+> 📌 Machine Learning Project (coursework-inspired) demonstrating a complete end-to-end ML pipeline using industry-standard practices.
+
 ## 📌 Project Overview
 This project demonstrates a complete **end-to-end Machine Learning pipeline**, covering every stage of the ML lifecycle — from raw data ingestion to model training, evaluation, and deployment readiness. The focus is on building a practical, real-world ML system using clean architecture and best practices.
+
+## 📚 Project Origin & Attribution
+
+This project is **coursework-inspired** and was developed as part of structured learning in Machine Learning and Data Science.
+
+The overall idea, workflow, and end-to-end project structure are inspired by the following educational resource:
+
+- **Instructor:** Krish Naik  
+- **Platform:** YouTube  
+- **Playlist Title:** *End To End Data Science Playlist*  
+- **Playlist Link:**  
+  https://www.youtube.com/playlist?list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG  
+
+This repository represents my independent implementation, experimentation, debugging, and documentation based on the concepts learned from the resource above.
 
 ## 🧠 Key Objectives
 - Build a scalable and reproducible machine learning workflow  
