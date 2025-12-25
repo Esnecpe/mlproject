@@ -12,8 +12,7 @@ This project demonstrates a complete **end-to-end Machine Learning pipeline**, c
 ## 🛠️ Technologies & Tools
 - **Programming Language:** Python  
 - **Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn  
-- **Machine Learning:** Supervised learning algorithms  
-- **Version Control:** Git & GitHub  
+- **Machine Learning:** Supervised learning algorithms   
 - **Environment:** Jupyter Notebook / Python scripts  
 
 ## 🔄 Project Workflow
