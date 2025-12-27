@@ -44,7 +44,7 @@ class CustomData:
 
                 self.writing_score = writing_score
 
-                def get_data_as_data_frame(self):
+    def get_data_as_data_frame(self):
                     try:
                         custom_data_input_dict = {
                              "gender": [self.gender],
